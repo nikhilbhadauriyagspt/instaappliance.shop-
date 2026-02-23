@@ -1,0 +1,80 @@
+export const projectsData = [
+  {
+    id: 1,
+    title: 'Commercial Fridge Repair',
+    category: 'Commercial',
+    img: '/projects/Commercial Fridge Repair.jpg',
+    description: 'A large-scale commercial refrigerator repair for a local restaurant chain.',
+    fullDescription: 'We were called to fix a multi-unit commercial refrigeration system that had stopped cooling during peak hours. Our team diagnosed a compressor failure and a refrigerant leak. We replaced the faulty parts, recharged the system, and performed a full efficiency check to ensure optimal performance.',
+    client: 'Gourmet Kitchens Ltd.',
+    date: 'February 2026',
+    duration: '2 Days',
+    location: 'Downtown Tech District',
+    features: ['Compressor Replacement', 'Leak Detection & Fix', 'Refrigerant Recharge', 'Efficiency Audit']
+  },
+  {
+    id: 2,
+    title: 'Luxury Oven Maintenance',
+    category: 'Residential',
+    img: '/projects/Luxury Oven Maintenance.jpg',
+    description: 'Precision maintenance and calibration for a high-end luxury kitchen oven.',
+    fullDescription: 'High-end ovens require specialized knowledge. This project involved a complete internal cleaning, thermostat calibration, and heating element testing for a premium residential oven. We ensured that the temperature sensors were accurate to within 1 degree for perfect baking results.',
+    client: 'Private Residence',
+    date: 'January 2026',
+    duration: '4 Hours',
+    location: 'Westside Heights',
+    features: ['Thermostat Calibration', 'Heating Element Test', 'Deep Internal Cleaning', 'Door Seal Inspection']
+  },
+  {
+    id: 3,
+    title: 'Washing Machine Overhaul',
+    category: 'Residential',
+    img: '/projects/Washing Machine Overhaul.jpg',
+    description: 'Complete mechanical overhaul of a premium front-loading washing machine.',
+    fullDescription: 'The client reported heavy vibration and loud noise during the spin cycle. We completely disassembled the unit, replaced the worn-out drum bearings, and balanced the internal counterweights. The machine now operates silently even at high RPMs.',
+    client: 'Green Park Apartments',
+    date: 'January 2026',
+    duration: '6 Hours',
+    location: 'Green Park',
+    features: ['Bearing Replacement', 'Drum Balancing', 'Motor Servicing', 'Drainage Pump Clean']
+  },
+  {
+    id: 4,
+    title: 'HVAC System Fix',
+    category: 'Industrial',
+    img: '/projects/HVAC System Fix.jpg',
+    description: 'Industrial HVAC repair and ductwork optimization for an office complex.',
+    fullDescription: 'A comprehensive repair of a central HVAC system serving a three-story office building. We fixed a malfunctioning control board, replaced the main air filters, and optimized the ductwork for better air distribution and energy efficiency.',
+    client: 'Skyline Business Center',
+    date: 'December 2025',
+    duration: '3 Days',
+    location: 'Corporate Plaza',
+    features: ['PCB Repair', 'Filter System Upgrade', 'Ductwork Optimization', 'Energy Efficiency Test']
+  },
+  {
+    id: 5,
+    title: 'Smart TV Screen Replacement',
+    category: 'Electronics',
+    img: '/projects/Smart TV Screen Replacement.jpg',
+    description: 'Delicate screen replacement for a 75-inch OLED Smart TV.',
+    fullDescription: 'A high-precision task involving the replacement of a cracked OLED panel on a 75-inch smart television. We handled the delicate internal connections and recalibrated the color settings to ensure factory-standard display quality.',
+    client: 'Private Client',
+    date: 'December 2025',
+    duration: '5 Hours',
+    location: 'North Hill',
+    features: ['OLED Panel Replacement', 'Color Recalibration', 'Internal Connector Repair', 'Firmware Update']
+  },
+  {
+    id: 6,
+    title: 'Coffee Machine Restoration',
+    category: 'Small Appliance',
+    img: '/projects/Coffee Machine Restoration.jpg',
+    description: 'Full restoration and descaling of a professional espresso machine.',
+    fullDescription: 'This vintage-style professional espresso machine required a complete restoration. We descaled the entire boiler system, replaced all gaskets and seals, and polished the exterior to its original shine. It now produces perfect shots once again.',
+    client: 'The Daily Grind Cafe',
+    date: 'November 2025',
+    duration: '1 Day',
+    location: 'Old Town',
+    features: ['System Descaling', 'Gasket Replacement', 'Steam Wand Repair', 'Exterior Polishing']
+  }
+];
