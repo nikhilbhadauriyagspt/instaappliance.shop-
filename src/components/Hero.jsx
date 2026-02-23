@@ -18,7 +18,7 @@ const slides = [
     highlight: "Home Comfort",
     desc: "Experience world-class appliance repair services delivered at your doorstep by certified professionals.",
     image: "/banner/hero-1.jpg",
-    badge: "5-Star Service"
+    badge: "Expert Care"
   },
   {
     id: 2,
@@ -102,23 +102,13 @@ const Hero = () => {
                       >
                         Book Appointment
                       </button>
-                      
-                      <div className="flex items-center gap-4">
-                        <div className="w-12 h-12 rounded-full bg-white/10 backdrop-blur-md border border-white/20 flex items-center justify-center text-white">
-                          <FaStar size={16} className="text-amber-400" />
-                        </div>
-                        <div className="text-left">
-                          <span className="block text-white font-black text-xl leading-none">4.9/5 Rating</span>
-                          <span className="text-white/60 text-[10px] font-bold uppercase tracking-widest">Verified Reviews</span>
-                        </div>
-                      </div>
                     </div>
 
                     {/* Quick Trust Badges */}
                     <div className="flex flex-wrap gap-8 pt-8 border-t border-white/10">
                        <div className="flex items-center gap-3">
                           <FiShield className="text-indigo-400 text-xl" />
-                          <span className="text-white text-sm font-bold tracking-wide">12 Month Warranty</span>
+                          <span className="text-white text-sm font-bold tracking-wide">90 Days Warranty</span>
                        </div>
                        <div className="flex items-center gap-3">
                           <FiClock className="text-indigo-400 text-xl" />

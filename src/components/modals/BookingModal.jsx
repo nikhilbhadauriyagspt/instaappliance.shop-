@@ -123,7 +123,7 @@ const BookingModal = () => {
               </div>
 
               <button type="submit" className="w-full bg-primary text-white font-black uppercase tracking-[4px] py-5 rounded-2xl shadow-2xl hover:bg-secondary transition-all active:scale-95 mt-4">
-                Confirm Dispatch
+                Book Now
               </button>
             </form>
           </div>

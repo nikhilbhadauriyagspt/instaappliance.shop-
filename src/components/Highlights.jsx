@@ -6,7 +6,7 @@ const highlights = [
     id: "01",
     icon: <FiShield />,
     title: "Warranty",
-    label: "45-Day Secure Cover",
+    label: "90 Days Warranty",
     desc: "Every repair is backed by our signature peace-of-mind warranty program."
   },
   {
@@ -47,11 +47,11 @@ const Highlights = () => {
               className="group relative flex flex-col items-start"
             >
               {/* Vertical Index Number */}
-              <div className="absolute -left-8 top-0 text-slate-100 font-black text-6xl lg:text-7xl leading-none select-none transition-colors group-hover:text-indigo-50">
+              <div className="absolute -right-4 top-0 text-slate-100 font-black text-6xl lg:text-7xl leading-none select-none transition-colors group-hover:text-indigo-50">
                 {item.id}
               </div>
 
-              <div className="relative pl-4 space-y-6">
+              <div className="relative pr-4 space-y-6">
                 {/* Icon in Modern Frame */}
                 <div className="relative">
                    <div className="w-14 h-14 bg-slate-50 border border-slate-100 rounded-2xl flex items-center justify-center text-slate-400 group-hover:bg-indigo-600 group-hover:text-white group-hover:rotate-12 group-hover:scale-110 transition-all duration-500 shadow-sm">

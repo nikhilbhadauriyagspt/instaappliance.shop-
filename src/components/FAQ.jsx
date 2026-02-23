@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     question: "What is your warranty policy on repairs?",
-    answer: "We provide an industry-leading 30-day labor guarantee and up to 90 days of warranty on all factory-original spare parts replaced by our team."
+    answer: "We provide an industry-leading 90-day warranty on all repairs and factory-original spare parts replaced by our team."
   },
   {
     question: "Are there any hidden service charges?",

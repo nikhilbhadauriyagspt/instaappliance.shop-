@@ -24,7 +24,7 @@ const FAQSection = () => {
     {
       id: 3,
       question: "Is there a warranty on the repair?",
-      answer: "Absolutely. We give you a 45-day warranty on our service. If the same problem happens again, we will fix it for free."
+      answer: "Absolutely. We give you a 90-day warranty on our service. If the same problem happens again, we will fix it for free."
     },
     {
       id: 4,

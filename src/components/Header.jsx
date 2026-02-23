@@ -124,13 +124,6 @@ const Header = () => {
 
           {/* Action Button */}
           <div className="hidden lg:flex items-center gap-8">
-            <div className="hidden xl:flex flex-col items-end">
-               <div className="flex items-center gap-1.5 text-[10px] font-bold text-slate-400 uppercase tracking-widest">
-                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
-                  Systems Live
-               </div>
-               <span className="text-[11px] font-bold text-slate-500">Service Hours: 08:00 - 21:00</span>
-            </div>
             <button
               onClick={() => openBookingModal()}
               className="bg-indigo-600 text-white px-8 py-3.5 rounded-full font-black text-[12px] uppercase tracking-widest hover:bg-slate-900 transition-all shadow-xl shadow-indigo-100 hover:shadow-slate-200 active:scale-95"

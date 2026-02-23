@@ -69,7 +69,7 @@ const About = () => {
               <div className="absolute -inset-4 bg-slate-50 rounded-[3rem] -z-10 transform -rotate-2 group-hover:rotate-0 transition-transform duration-700"></div>
               <div className="rounded-[2.5rem] overflow-hidden border-8 border-white shadow-2xl relative z-10">
                 <img
-                  src="/banner/hero-7.jpg"
+                  src="/banner/main-slide-1-2.jpg"
                   className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-1000"
                   alt="Insta Appliance Expert Team"
                 />
@@ -80,10 +80,10 @@ const About = () => {
             <div className="space-y-8">
               <div>
                 <div className="inline-flex items-center gap-2 px-3 py-1 bg-indigo-50 text-indigo-600 rounded-full mb-4">
-                   <span className="text-[10px] font-bold uppercase tracking-widest">Who We Are</span>
+                  <span className="text-[10px] font-bold uppercase tracking-widest">Who We Are</span>
                 </div>
                 <h2 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 leading-tight tracking-tight">
-                  Dedicated to <br/>
+                  Dedicated to <br />
                   <span className="text-indigo-600">Service Integrity</span>
                 </h2>
               </div>
@@ -141,7 +141,7 @@ const About = () => {
         <div className="container mx-auto px-6 md:px-12 lg:px-20">
           <div className="bg-slate-900 rounded-[3rem] p-10 md:p-16 lg:p-24 text-center relative overflow-hidden shadow-2xl">
             <div className="absolute top-0 right-0 w-96 h-96 bg-indigo-600/10 blur-[100px] rounded-full"></div>
-            
+
             <h2 className="text-3xl md:text-5xl lg:text-6xl font-black text-white mb-10 leading-tight tracking-tight relative z-10">
               Ready to Restore Your <br />
               <span className="text-indigo-400">Appliance Performance?</span>
