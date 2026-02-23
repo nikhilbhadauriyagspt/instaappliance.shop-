@@ -11,8 +11,8 @@ export default function CookiePolicy() {
   return (
     <div className="bg-white min-h-screen font-sans overflow-x-hidden">
       <Helmet>
-        <title>Cookie Policy | Appliance Kick - Data Usage Standards</title>
-        <meta name="description" content="Understand how Appliance Kick uses cookies to improve your experience on our repair service website and maintain technical performance." />
+        <title>Cookie Policy | Insta Appliance - Data Usage Standards</title>
+        <meta name="description" content="Understand how Insta Appliance uses cookies to improve your experience on our repair service website and maintain technical performance." />
         <link rel="canonical" href="https://instaappliance.shop/cookie-policy" />
       </Helmet>
 
@@ -36,7 +36,7 @@ export default function CookiePolicy() {
             Cookie <span className="text-indigo-400">Policy</span>
           </h1>
           <p className="text-slate-400 text-lg font-medium max-w-3xl mx-auto leading-relaxed">
-            Last updated February 06, 2026. This Cookie Policy explains how Appliance Kick uses cookies and similar tracking technologies.
+            Last updated February 06, 2026. This Cookie Policy explains how Insta Appliance uses cookies and similar tracking technologies.
           </p>
         </div>
       </section>
@@ -49,7 +49,7 @@ export default function CookiePolicy() {
               
               <section className="bg-slate-50 p-8 md:p-12 rounded-[2.5rem] border border-slate-100 shadow-sm">
                 <p>
-                  This Cookie Policy explains how Appliance Kick (“Company,” “we,” “us,” or “our”) uses cookies and similar tracking technologies when you visit our website <a href="https://instaappliance.shop/">https://instaappliance.shop/</a> (the “Website”). This policy should be read together with our <Link to="/privacy-policy">PRIVACY POLICY</Link> and <Link to="/terms-of-service">TERMS OF SERVICE</Link>.
+                  This Cookie Policy explains how Insta Appliance (“Company,” “we,” “us,” or “our”) uses cookies and similar tracking technologies when you visit our website <a href="https://instaappliance.shop/">https://instaappliance.shop/</a> (the “Website”). This policy should be read together with our <Link to="/privacy-policy">PRIVACY POLICY</Link> and <Link to="/terms-of-service">TERMS OF SERVICE</Link>.
                 </p>
               </section>
 
@@ -61,7 +61,7 @@ export default function CookiePolicy() {
 
               <section>
                 <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase">2. How We Use Cookies</h2>
-                <p>Appliance Kick uses cookies and similar technologies to:</p>
+                <p>Insta Appliance uses cookies and similar technologies to:</p>
                 <ul className="list-disc pl-6 space-y-2">
                   <li>Ensure the Website functions properly</li>
                   <li>Maintain security and prevent fraudulent activity</li>
@@ -129,7 +129,7 @@ export default function CookiePolicy() {
 
               <section>
                 <h2 className="text-3xl font-black text-slate-900 mb-6 uppercase">6. Do Not Track Signals</h2>
-                <p>Some browsers offer a “Do Not Track” (DNT) feature. At this time, there is no uniform industry standard for recognizing DNT signals, and Appliance Kick does not currently respond to such signals <Link to="/privacy-policy">PRIVACY POLICY</Link>.</p>
+                <p>Some browsers offer a “Do Not Track” (DNT) feature. At this time, there is no uniform industry standard for recognizing DNT signals, and Insta Appliance does not currently respond to such signals <Link to="/privacy-policy">PRIVACY POLICY</Link>.</p>
               </section>
 
               <section>
@@ -150,7 +150,7 @@ export default function CookiePolicy() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Email Support</p>
-                        <p className="font-black text-lg m-0">info@appliancekick.shop</p>
+                        <p className="font-black text-lg m-0">info@instaappliance.shop</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
@@ -159,7 +159,7 @@ export default function CookiePolicy() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Address</p>
-                        <p className="font-black text-lg m-0">2010 N Loop W #105, Houston, TX 77018, United States</p>
+                        <p className="font-black text-lg m-0">North Little Rock, Arkansas, USA</p>
                       </div>
                     </div>
                   </div>

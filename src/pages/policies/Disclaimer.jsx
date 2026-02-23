@@ -11,8 +11,8 @@ export default function Disclaimer() {
   return (
     <div className="bg-white min-h-screen font-sans overflow-x-hidden">
       <Helmet>
-        <title>Disclaimer | Appliance Kick - Important Information</title>
-        <meta name="description" content="Official Disclaimer for Appliance Kick. Learn about our general, professional, and external links information policies." />
+        <title>Disclaimer | Insta Appliance - Important Information</title>
+        <meta name="description" content="Official Disclaimer for Insta Appliance. Learn about our general, professional, and external links information policies." />
         <link rel="canonical" href="https://instaappliance.shop/disclaimer" />
       </Helmet>
 
@@ -55,7 +55,7 @@ export default function Disclaimer() {
                   <h2 className="text-3xl font-black text-slate-900 uppercase m-0">General Disclaimer</h2>
                 </div>
                 <p>
-                  The information provided by <strong>Appliance Kick</strong> ("we," "us," or "our") on <a href="https://instaappliance.shop" className="text-indigo-600 font-bold hover:underline">https://instaappliance.shop</a> (the "Site") is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.
+                  The information provided by <strong>Insta Appliance</strong> ("we," "us," or "our") on <a href="https://instaappliance.shop" className="text-indigo-600 font-bold hover:underline">https://instaappliance.shop</a> (the "Site") is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.
                 </p>
               </section>
 
@@ -91,7 +91,7 @@ export default function Disclaimer() {
                   <div className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-indigo-400">
                     <FiAlertTriangle />
                   </div>
-                  <span className="font-bold">Email: info@appliancekick.shop</span>
+                  <span className="font-bold">Email: info@instaappliance.shop</span>
                 </div>
               </section>
 

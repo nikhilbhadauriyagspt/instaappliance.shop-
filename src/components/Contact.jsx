@@ -124,13 +124,13 @@ const Contact = () => {
             style={{ border: 0, filter: 'grayscale(100%) contrast(1.2) invert(90%)' }}
             loading="lazy"
             allowFullScreen
-            src="https://maps.google.com/maps?q=2010%20N%20Loop%20W%20%23105,%20Houston,%20TX%2077018,%20USA&t=&z=15&ie=UTF8&iwloc=&output=embed">
+            src="https://maps.google.com/maps?q=North%20Little%20Rock,%20Arkansas,%20USA&t=&z=15&ie=UTF8&iwloc=&output=embed">
           </iframe>
 
           {/* Address Overlay Card */}
           <div className="absolute bottom-10 left-10 z-20 bg-white p-8 rounded-[32px] shadow-2xl max-w-xs border border-slate-100 translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
             <h5 className="text-[10px] font-black uppercase tracking-[3px] text-secondary mb-3">Service Headquarters</h5>
-            <p className="text-primary font-black text-lg leading-tight mb-4">2010 N Loop W #105, Houston, TX 77018, USA</p>
+            <p className="text-primary font-black text-lg leading-tight mb-4">North Little Rock, Arkansas, USA</p>
             <div className="flex items-center gap-2 text-slate-400 text-[10px] font-bold uppercase tracking-widest">
               <FaMapMarkerAlt className="text-secondary" /> Open for walk-ins
             </div>

@@ -94,7 +94,7 @@ const Contact = () => {
               <div className="grid gap-6">
                 {[
                   { icon: <FiMail />, label: "Email Support", val: "info@instaappliance.shop" },
-                  { icon: <FiMapPin />, label: "Service Area", val: "Professional Home Service" },
+                  { icon: <FiMapPin />, label: "Service Area", val: "North Little Rock, Arkansas, USA" },
                   { icon: <FiClock />, label: "Service Hours", val: "Mon-Sat: 8AM - 9PM" }
                 ].map((item, index) => (
                   <div key={index} className="flex items-center gap-6 p-6 rounded-3xl border border-slate-100 bg-slate-50/50 group hover:bg-white hover:shadow-xl transition-all duration-500">

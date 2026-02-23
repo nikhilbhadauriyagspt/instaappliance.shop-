@@ -11,8 +11,8 @@ export default function RefundPolicy() {
   return (
     <div className="bg-white min-h-screen font-sans overflow-x-hidden">
       <Helmet>
-        <title>Return Policy | ApplianceKick - Returns & Refunds</title>
-        <meta name="description" content="Read ApplianceKick's return policy. Learn about our 7-day return window, RMA process, and refund timelines." />
+        <title>Return Policy | Insta Appliance - Returns & Refunds</title>
+        <meta name="description" content="Read Insta Appliance's return policy. Learn about our 7-day return window, RMA process, and refund timelines." />
         <link rel="canonical" href="https://instaappliance.shop/refund-policy" />
       </Helmet>
 
@@ -72,17 +72,17 @@ export default function RefundPolicy() {
                   <h2 className="text-3xl font-black text-slate-900 uppercase m-0">Return Process</h2>
                 </div>
                 <p>
-                  To return an item, please email customer service at <a href="mailto:info@appliancekick.shop">info@appliancekick.shop</a> to obtain a Return Merchandise Authorization (RMA) number.
+                  To return an item, please email customer service at <a href="mailto:info@instaappliance.shop">info@instaappliance.shop</a> to obtain a Return Merchandise Authorization (RMA) number.
                 </p>
                 <p>
                   After receiving an RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your return to the following address:
                 </p>
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 font-bold text-slate-900 mt-4">
-                  <p className="m-0">Appliance Kick</p>
+                  <p className="m-0">Insta Appliance</p>
                   <p className="m-0">Attn: Returns</p>
                   <p className="m-0 text-indigo-600">RMA # [Your RMA Number]</p>
                   <p className="m-0">2010 N Loop W #105</p>
-                  <p className="m-0">Houston, TX 77018</p>
+                  <p className="m-0">North Little Rock, Arkansas, USA</p>
                   <p className="m-0">United States</p>
                 </div>
                 <p className="mt-4">
@@ -130,7 +130,7 @@ export default function RefundPolicy() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Email Support</p>
-                        <p className="font-black text-lg m-0">info@appliancekick.shop</p>
+                        <p className="font-black text-lg m-0">info@instaappliance.shop</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
@@ -139,7 +139,7 @@ export default function RefundPolicy() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Location</p>
-                        <p className="font-black text-lg m-0">2010 N Loop W #105, Houston, TX 77018, United States</p>
+                        <p className="font-black text-lg m-0">North Little Rock, Arkansas, USA</p>
                       </div>
                     </div>
                   </div>

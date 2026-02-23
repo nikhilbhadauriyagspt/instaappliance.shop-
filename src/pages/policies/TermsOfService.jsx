@@ -11,8 +11,8 @@ export default function TermsOfService() {
   return (
     <div className="bg-white min-h-screen font-sans overflow-x-hidden">
       <Helmet>
-        <title>Terms of Service | ApplianceKick - Legal Agreement</title>
-        <meta name="description" content="Read the legal terms and conditions for using ApplianceKick's services and website." />
+        <title>Terms of Service | Insta Appliance - Legal Agreement</title>
+        <meta name="description" content="Read the legal terms and conditions for using Insta Appliance's services and website." />
         <link rel="canonical" href="https://instaappliance.shop/terms-of-service" />
       </Helmet>
 
@@ -49,19 +49,19 @@ export default function TermsOfService() {
               <section className="bg-slate-50 p-8 md:p-12 rounded-[2.5rem] border border-slate-100 shadow-sm">
                 <h2 className="text-2xl font-black text-slate-900 mb-6 uppercase">Agreement to our Legal Terms</h2>
                 <p>
-                  We are Appliance Kick ("<strong>Company</strong>," "<strong>we</strong>," "<strong>us</strong>," "<strong>our</strong>"), a company registered in California, United States at 2010 N Loop W #105, Houston, TX 77018.
+                  We are Insta Appliance ("<strong>Company</strong>," "<strong>we</strong>," "<strong>us</strong>," "<strong>our</strong>"), a company registered in California, United States at North Little Rock, Arkansas, USA.
                 </p>
                 <p>
                   We operate the website <a href="https://instaappliance.shop/">https://instaappliance.shop/</a> (the "<strong>Site</strong>"), as well as any other related products and services that refer or link to these legal terms (the "<strong>Legal Terms</strong>") (collectively, the "<strong>Services</strong>").
                 </p>
                 <p>
-                  Appliance Kick was founded on the principle that household repairs should be handled with the same level of precision as industrial maintenance. We recognize that modern appliances are complex electronic systems that require specialized knowledge and calibrated tools for effective servicing.
+                  Insta Appliance was founded on the principle that household repairs should be handled with the same level of precision as industrial maintenance. We recognize that modern appliances are complex electronic systems that require specialized knowledge and calibrated tools for effective servicing.
                 </p>
                 <p>
-                  You can contact us by email at <a href="mailto:info@appliancekick.shop">info@appliancekick.shop</a>, or by mail to 2010 N Loop W #105, Houston, TX 77018, United States.
+                  You can contact us by email at <a href="mailto:info@instaappliance.shop">info@instaappliance.shop</a>, or by mail to North Little Rock, Arkansas, USA.
                 </p>
                 <p>
-                  These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Appliance Kick, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. <strong>IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.</strong>
+                  These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Insta Appliance, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. <strong>IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.</strong>
                 </p>
                 <p>Supplemental terms and conditions or documents that may be posted on the Services from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Legal Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Legal Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Legal Terms by your continued use of the Services after the date such revised Legal Terms are posted.</p>
                 <p>The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.</p>
@@ -111,7 +111,7 @@ export default function TermsOfService() {
                 <h3 className="text-xl font-bold text-slate-900 mt-8 mb-4">Your use of our Services</h3>
                 <p>Subject to your compliance with these Legal Terms, including the "PROHIBITED ACTIVITIES" section below, we grant you a non-exclusive, non-transferable, revocable license to: (1) access the Services; and (2) download or print a copy of any portion of the Content to which you have properly gained access, solely for your personal, non-commercial use or internal business purpose.</p>
                 <p>Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.</p>
-                <p>If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: <strong>info@appliancekick.shop</strong>. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.</p>
+                <p>If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: <strong>info@instaappliance.shop</strong>. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.</p>
                 
                 <h3 className="text-xl font-bold text-slate-900 mt-8 mb-4">Your submissions</h3>
                 <p>Please review this section and the "PROHIBITED ACTIVITIES" section carefully prior to using our Services to understand the (a) rights you give us and (b) obligations you have when you post or upload any content through the Services.</p>
@@ -260,7 +260,7 @@ export default function TermsOfService() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Company</p>
-                        <p className="font-black text-lg m-0">ApplianceKick</p>
+                        <p className="font-black text-lg m-0">Insta Appliance</p>
                       </div>
                     </div>
                     <div className="flex items-center gap-4">
@@ -269,7 +269,7 @@ export default function TermsOfService() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Email</p>
-                        <p className="font-black text-lg m-0">info@appliancekick.shop</p>
+                        <p className="font-black text-lg m-0">info@instaappliance.shop</p>
                       </div>
                     </div>
                     <div className="flex items-start gap-4">
@@ -278,7 +278,7 @@ export default function TermsOfService() {
                       </div>
                       <div>
                         <p className="text-slate-400 text-sm font-bold uppercase tracking-wider m-0">Address</p>
-                        <p className="font-black text-lg m-0">2010 N Loop W #105, Houston, TX 77018, United States</p>
+                        <p className="font-black text-lg m-0">North Little Rock, Arkansas, USA</p>
                       </div>
                     </div>
                   </div>
