@@ -26,33 +26,33 @@ const ServicesSection = () => {
             <Link 
               key={service.id}
               to={`/service/${service.slug}`}
-              className="group relative h-[400px] bg-slate-50 rounded-[2.5rem] overflow-hidden border border-slate-100 p-8 flex flex-col justify-between transition-all duration-500 hover:border-indigo-500 hover:shadow-2xl hover:shadow-indigo-500/5"
+              className="group relative h-[400px] bg-slate-900 rounded-[2.5rem] overflow-hidden border border-slate-100 p-8 flex flex-col justify-between transition-all duration-500 hover:border-indigo-500 hover:shadow-2xl hover:shadow-indigo-500/5"
             >
-              {/* Premium Image Reveal Background */}
-              <div className="absolute inset-0 z-0 opacity-0 group-hover:opacity-100 transition-all duration-700">
-                <div className="absolute inset-0 bg-indigo-900/90 z-10 backdrop-blur-[1px]"></div>
-                <img src={service.image} className="w-full h-full object-cover scale-125 group-hover:scale-100 transition-transform duration-1000" alt="" />
+              {/* Premium Image Background - Always Visible */}
+              <div className="absolute inset-0 z-0">
+                <div className="absolute inset-0 bg-slate-900/60 group-hover:bg-indigo-900/80 z-10 transition-colors duration-500 backdrop-blur-[0.5px]"></div>
+                <img src={service.image} className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110" alt="" />
               </div>
 
               {/* Card Top: Number & Icon */}
               <div className="relative z-10 flex justify-between items-start">
-                <div className="text-slate-200 font-black text-4xl opacity-40 group-hover:opacity-20 transition-opacity">
+                <div className="text-white font-black text-4xl opacity-20">
                   0{index + 1}
                 </div>
-                <div className="w-10 h-10 rounded-xl bg-white text-slate-400 flex items-center justify-center text-lg group-hover:bg-indigo-600 group-hover:text-white transition-all duration-500">
+                <div className="w-10 h-10 rounded-xl bg-white/10 backdrop-blur-md text-white flex items-center justify-center text-lg group-hover:bg-indigo-600 transition-all duration-500 border border-white/20">
                   <FiPlus />
                 </div>
               </div>
 
               {/* Card Bottom: Content */}
               <div className="relative z-10">
-                <h3 className="text-xl font-black text-slate-900 mb-3 group-hover:text-white transition-colors duration-500">
+                <h3 className="text-xl font-black text-white mb-3">
                   {service.title}
                 </h3>
-                <p className="text-slate-500 text-xs font-medium leading-relaxed mb-6 group-hover:text-indigo-100 transition-colors duration-500 line-clamp-2">
+                <p className="text-slate-200 text-xs font-medium leading-relaxed mb-6 line-clamp-2">
                   {service.shortDesc}
                 </p>
-                <div className="flex items-center gap-2 text-indigo-600 group-hover:text-white font-black text-[10px] uppercase tracking-widest transition-colors duration-500">
+                <div className="flex items-center gap-2 text-indigo-400 group-hover:text-white font-black text-[10px] uppercase tracking-widest transition-colors duration-500">
                   View Service <FiArrowRight className="group-hover:translate-x-2 transition-transform duration-500" />
                 </div>
               </div>
